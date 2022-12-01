@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Khan Solver
 // @version      2.0
-// @downloadURL  https://raw.githubusercontent.com/0mlml/khansolver/main/script.js
-// @updateURL    https://raw.githubusercontent.com/0mlml/khansolver/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/0mlml/khansolver/main/khansolver.user.js
+// @updateURL    https://raw.githubusercontent.com/0mlml/khansolver/main/khansolver.user.js
 // @description  solve khan academy so i dont have to do it myself
 // @require      https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js
 // @require      https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/contrib/auto-render.min.js
